@@ -1,0 +1,23 @@
+# ninja log v5
+9	1637	7532774200889628	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	76f9edb2781ca2c2
+73	469	7532774189048080	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	3285fbb56ca763ea
+470	953	7532774193628862	C:/Users/Pc/Documents/Unity Projects/BouncyBalls/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3f4g5420/obj/arm64-v8a/libswappywrapper.so	8233c460d4369bd9
+36	1199	7532774196397762	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a206ee260628c80f
+64	1304	7532774197517600	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c8e9843b1b59668
+15	1225	7532774196644375	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	64f21182377e271d
+1	1365	7532774198132753	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	60f8a20335c5f165
+50	1254	7532774196962697	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8477551a3471b364
+42	1257	7532774197043450	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8e24c5c2ba24adf9
+21	1547	7532774199952639	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5b643be8daf5a75
+1637	1733	7532774201891121	C:/Users/Pc/Documents/Unity Projects/BouncyBalls/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3f4g5420/obj/arm64-v8a/libgame.so	51c0944573f372a1
+39	179	7532917071237095	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	3285fbb56ca763ea
+179	306	7532917072498166	C:/Users/Pc/Documents/Unity Projects/BouncyBalls/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3f4g5420/obj/arm64-v8a/libswappywrapper.so	8233c460d4369bd9
+15	766	7532917077049001	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	8e24c5c2ba24adf9
+2	767	7532917077094370	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	64f21182377e271d
+29	784	7532917077281800	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	a206ee260628c80f
+24	827	7532917077706943	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8477551a3471b364
+34	875	7532917078160420	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4c8e9843b1b59668
+11	902	7532917078449713	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	60f8a20335c5f165
+19	992	7532917079370626	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	5b643be8daf5a75
+7	1114	7532917080571320	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	76f9edb2781ca2c2
+1114	1197	7532917081441449	C:/Users/Pc/Documents/Unity Projects/BouncyBalls/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3f4g5420/obj/arm64-v8a/libgame.so	51c0944573f372a1
